@@ -1,0 +1,172 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "SafeSend"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "SafeSend"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SafeSend"
+    },
+    {
+      "name": "app_name",
+      "value": "SafeSend"
+    },
+    {
+      "name": "tab_encrypt",
+      "value": "加密"
+    },
+    {
+      "name": "tab_decrypt",
+      "value": "解密"
+    },
+    {
+      "name": "tab_more",
+      "value": "更多"
+    },
+    {
+      "name": "page_encrypt_title",
+      "value": "加密信息"
+    },
+    {
+      "name": "page_decrypt_title",
+      "value": "解密信息"
+    },
+    {
+      "name": "label_plaintext",
+      "value": "原文"
+    },
+    {
+      "name": "label_ciphertext",
+      "value": "密文"
+    },
+    {
+      "name": "label_ciphertext_input",
+      "value": "密文（粘贴加密结果）"
+    },
+    {
+      "name": "label_plaintext_output",
+      "value": "解密结果"
+    },
+    {
+      "name": "label_algorithm",
+      "value": "算法"
+    },
+    {
+      "name": "placeholder_plaintext",
+      "value": "在这里输入要加密的内容…"
+    },
+    {
+      "name": "placeholder_ciphertext",
+      "value": "在这里粘贴需要解密的密文（JSON）…"
+    },
+    {
+      "name": "placeholder_key",
+      "value": "输入密钥（建议至少 6 位）"
+    },
+    {
+      "name": "hint_key_derivation",
+      "value": "密钥用于派生 AES 密钥：同一密钥才能解密"
+    },
+    {
+      "name": "action_encrypt",
+      "value": "加密"
+    },
+    {
+      "name": "action_decrypt",
+      "value": "解密"
+    },
+    {
+      "name": "action_copy",
+      "value": "复制"
+    },
+    {
+      "name": "alg_aes_gcm",
+      "value": "AES-256-GCM（推荐）"
+    },
+    {
+      "name": "alg_aes_cbc",
+      "value": "AES-256-CBC"
+    },
+    {
+      "name": "more_subtitle",
+      "value": "分享与关于"
+    },
+    {
+      "name": "action_share_app",
+      "value": "分享应用"
+    },
+    {
+      "name": "action_about",
+      "value": "关于应用"
+    },
+    {
+      "name": "toast_copied",
+      "value": "已复制到剪贴板"
+    },
+    {
+      "name": "toast_copy_failed",
+      "value": "复制失败"
+    },
+    {
+      "name": "toast_encrypt_ok",
+      "value": "加密成功"
+    },
+    {
+      "name": "toast_encrypt_failed",
+      "value": "加密失败"
+    },
+    {
+      "name": "toast_decrypt_ok",
+      "value": "解密成功"
+    },
+    {
+      "name": "error_text_empty",
+      "value": "请输入需要加密的文本"
+    },
+    {
+      "name": "error_key_empty",
+      "value": "请输入密钥"
+    },
+    {
+      "name": "error_key_too_short",
+      "value": "密钥长度至少 6 位"
+    },
+    {
+      "name": "error_cipher_empty",
+      "value": "请输入需要解密的内容"
+    },
+    {
+      "name": "error_cipher_format",
+      "value": "密文格式不正确，请粘贴加密页面生成的完整内容"
+    },
+    {
+      "name": "error_decrypt_failed",
+      "value": "解密失败：请检查密钥是否正确，或密文是否被修改"
+    },
+    {
+      "name": "toast_share_copied",
+      "value": "分享文案已复制，可直接粘贴发送"
+    },
+    {
+      "name": "share_text",
+      "value": "我正在使用 SafeSend 进行加解密，推荐你也试试！"
+    },
+    {
+      "name": "about_title",
+      "value": "关于 SafeSend"
+    },
+    {
+      "name": "about_content",
+      "value": "SafeSend 是一款本地加解密工具：\\n\\n- 支持 AES-256-GCM / AES-256-CBC\\n- 密钥会用于派生 AES 密钥（请妥善保管）\\n\\n提示：密文中包含随机 IV，请完整复制保存。"
+    },
+    {
+      "name": "about_ok",
+      "value": "知道了"
+    }
+  ]
+}

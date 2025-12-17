@@ -1,0 +1,48 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "page_bg",
+      "value": "#0B0F19"
+    },
+    {
+      "name": "card_bg",
+      "value": "#111827"
+    },
+    {
+      "name": "text_primary",
+      "value": "#F9FAFB"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#D1D5DB"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#9CA3AF"
+    },
+    {
+      "name": "divider",
+      "value": "#1F2937"
+    },
+    {
+      "name": "danger",
+      "value": "#F87171"
+    },
+    {
+      "name": "chip_bg",
+      "value": "#1F2937"
+    },
+    {
+      "name": "chip_selected_bg",
+      "value": "#F9FAFB"
+    },
+    {
+      "name": "chip_selected_text",
+      "value": "#111827"
+    }
+  ]
+}
